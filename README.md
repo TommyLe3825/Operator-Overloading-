@@ -1,6 +1,6 @@
-# Operator-Overloading-Sololearn
+# Operator-Overloading
 
-You are creating a program for a Bank to manage Accounts.
+You are creating a Sololearn program for a Bank to manage Accounts.
 
 The given code declares an Account class which has a balance and interest members.
 
